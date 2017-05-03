@@ -8,7 +8,7 @@ module.exports = {
       // 用户名
       user: 'root',
       // 密码
-      password: '123456',
+      password: '22',
       // 数据库名
       database: 'note',
     },
